@@ -1,3 +1,4 @@
 # DeepLearning
 Author and Owner: Aniruddha Kalburgi
-Content will be uploaded here as soon as semester 2 finishes at the end of May 2019
+The content will soon be made available after academic evaluations are finished.
+Expect availability by September 2019.
